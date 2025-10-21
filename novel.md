@@ -10,7 +10,7 @@
 
 I stole my first memory on a Wednesday.
 
-Not because Wednesdays are special—they're not. Middle-of-the-week, nobody-cares, halfway-to-the-weekend Wednesdays. But that's exactly why Victor chose it. "People's guards are down on Wednesdays," he told me. "Mondays they're vigilant. Fridays they're distracted. Wednesdays? They're just trying to survive until Thursday."
+Not because Wednesdays hold any particular magic—they don't. They're the forgettable middle child of the week, the day that exists only to remind you that Friday is still too far away. But that mundane invisibility was precisely why Victor chose it. "People's guards are down on Wednesdays," he explained, as if reading from some criminal psychology textbook. "Mondays they're vigilant, checking over their shoulders. Fridays they're distracted, already mentally at happy hour. But Wednesdays? Wednesdays they're just surviving, counting down the hours until Thursday makes the weekend feel within reach."
 
 The target was a woman named Diane Fletcher. Fifty-three, divorced, worked in HR at a pharmaceutical company. Lived alone in a rent-controlled apartment in Queens with two cats named after Jane Austen characters. I knew all this because I'd been following her for six days, documenting her routines, her habits, the rhythm of her boring, predictable life.
 
@@ -18,7 +18,7 @@ I knew she got the same coffee every morning at 7:42 AM. Iced vanilla latte, ext
 
 What I didn't know was why Victor wanted her memory. He never told me why. That wasn't part of the job.
 
-The extraction happened at 8:15 AM, on the subway platform at Union Square. I bumped into her during the morning rush—not hard, just a gentle collision in the crowd. "Sorry," I muttered, my hand already on the device hidden in my jacket pocket. It looked like a phone, but it was something else entirely. Something that shouldn't exist.
+The extraction happened at 8:15 AM sharp, on the subway platform at Union Square. I bumped into her during the morning rush—nothing dramatic, just a gentle collision in the human tide flowing toward the turnstiles. "Sorry," I muttered, my hand already pressing the device hidden in my jacket pocket against her temple for exactly three seconds. To anyone watching, it looked like a phone. And in a city where everyone walks around glued to their screens, who would give it a second glance? But it was something else entirely. Something that defied every law of neuroscience and ethics. Something that shouldn't exist.
 
 The tech had a dozen different names in the underground market. Neurosiphon. Mindwhisper. Ghost recorder. I just called it the Siphon. Press it against someone's temple for three seconds, and it captures everything. Not everything-everything, but close enough. Recent memories, emotional states, sensory impressions. The human brain is mostly electrical signals and chemical reactions. The Siphon just... records them.
 
@@ -56,7 +56,7 @@ That was my first mistake.
 
 ### Chapter 2: The Taste of Stolen Lives
 
-Memory isn't like video playback. It's messier than that. When you read someone's extracted memories, you don't see events unfold in neat chronological order. You get fragments. Impressions. The brain doesn't store things sequentially—it's all associations and emotions and sensory details tangled together.
+Memory isn't like video playback—that's the first thing you learn when you steal one. It's messier, more organic, like trying to read a book where all the pages have been scattered and reassembled by someone with a loose understanding of narrative structure. When you access someone's extracted memories, you don't watch events unfold in neat chronological order with helpful timestamps. Instead, you get fragments. Impressions. Echoes of moments layered on top of each other like double-exposed photographs. The brain doesn't archive experiences in tidy filing cabinets—it's all associations and emotions and sensory details tangled together like Christmas lights stored in a box for too long.
 
 Diane's memories tasted like burnt coffee and vanilla chapstick. They smelled like her mother's perfume and cat litter and the specific chemical scent of the office photocopier. I experienced her morning commute not as something observed but as something felt—the subway pole sticky under her palm, the guy next to her breathing too loud, the flicker of anxiety about the 10 AM meeting with her boss.
 
