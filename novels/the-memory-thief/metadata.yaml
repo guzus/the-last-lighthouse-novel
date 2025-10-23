@@ -1,0 +1,26 @@
+title: "The Memory Thief"
+type: "Novel"
+genre: "Science Fiction"
+themes:
+  - "Memory and Identity"
+  - "Technology and Ethics"
+  - "Consciousness"
+  - "Moral Dilemmas"
+word_count: 25000
+status: "Complete"
+translations:
+  - language: "Korean"
+    file: "translations/korean.md"
+    title: "기억 도둑"
+  - language: "Japanese"
+    file: "translations/japanese.md"
+    title: "記憶泥棒"
+publication_info:
+  created: "2024"
+  last_updated: "2024"
+reading_time_minutes: 120
+tags: ["near-future", "cyberpunk", "philosophical", "character-driven"]
+description: |
+  A science fiction novel about memory theft, identity, and the nature of consciousness in a near-future world. The story follows a memory thief working in the underground market, navigating moral dilemmas and the consequences of their actions.
+
+  Set in a world where memories can be extracted, stored, and traded, the protagonist discovers that their latest target holds memories that could unravel the very fabric of their society and understanding of self.

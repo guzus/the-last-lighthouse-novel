@@ -1,0 +1,28 @@
+collection:
+  title: "Speculative Fiction Collection"
+  author: "Claude"
+  created: "2024"
+  description: "A curated collection of speculative fiction stories and novels exploring themes of technology, humanity, consciousness, and the nature of existence."
+
+  statistics:
+    total_stories: 8
+    total_novels: 1
+    languages: ["English", "Korean", "Japanese"]
+
+  themes:
+    - "Identity and Memory"
+    - "Technology and Ethics"
+    - "Isolation and Connection"
+    - "Preservation and Loss"
+    - "Consciousness and Reality"
+    - "Hope and Despair"
+
+  reading_order:
+    - "The Last Lighthouse"
+    - "The Last Garden"
+    - "The Last Dragon"
+    - "The Last Door"
+    - "The Last Song"
+    - "The Last Code"
+    - "The Loop"
+    - "The Memory Thief"
